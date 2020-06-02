@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #f3eff5;
+}
+
+input[type="text"] {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 10px 10px;
+    border-style: solid;
+    border-color: #343832
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #f3eff5;
+    padding: 10px 10px;
+    background-color: #343832
+}
+
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    background-color: #75a167;
+}
+
